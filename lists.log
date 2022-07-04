@@ -1,0 +1,18 @@
+INFO 2022-07-04 10:44:19,102 Accessing List Class
+INFO 2022-07-04 10:44:19,102 Extracting List Entity from extract_list method
+INFO 2022-07-04 10:44:19,102 List Extracct Successfull
+INFO 2022-07-04 10:44:19,103 calculating sum of integer value from list
+INFO 2022-07-04 10:44:19,103 Summation of integer value from list is successgull
+INFO 2022-07-04 10:44:19,103 sum of list entity is 107
+INFO 2022-07-04 10:44:19,103 Method to filter out odd values from the list
+INFO 2022-07-04 10:44:19,103 Odd values out from the list is successfull
+INFO 2022-07-04 10:44:19,103 Method to extract 'ineuron' from the list
+INFO 2022-07-04 10:44:19,103 'ineuron' is extracted successfully
+INFO 2022-07-04 10:44:19,104 Method to count nnumber of ooccurence
+INFO 2022-07-04 10:44:19,104 number_occurence method is executed successfully
+INFO 2022-07-04 10:44:19,105 method to find out multiplication of all numeric value in the individual collection inside dataset
+INFO 2022-07-04 10:44:19,105 Multiplication is executed successfully
+INFO 2022-07-04 10:44:19,105 method to unwrape all the collection inside collection and create a flat list
+INFO 2022-07-04 10:44:19,105 Unwrapp all the collection data inside list is successfull
+INFO 2022-07-04 10:44:19,105 Reversing a list
+INFO 2022-07-04 10:44:19,105 Reverse a list is successfull
